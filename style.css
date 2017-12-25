@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(141, 232, 242);
+}
+
+html {
+    padding: 15px;
+}
+
+#game {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    padding: 15px;
+}
+h2 {
+
+}
