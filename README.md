@@ -1,4 +1,6 @@
 # rock-paper-scissors
+https://soniabradley.github.io/rock-paper-scissors/
+
 1.  User makes a choice
 2.  Computer makes a choice
 3.  Capture all choices
@@ -25,3 +27,4 @@ Note: This is a static method of the String object, and the syntax is always Str
 
 toLowerCase() handles user error to make sure that all letters are turned into lower case
 
+id="game" div is created after code logic is completed.
